@@ -10,4 +10,4 @@ You need to collect the following data:
 
 <h1></h1>
 <h1>How to use</h1>
-![alt text](example.com/logo.png)
+![alt text](https://i.stack.imgur.com/HTr1Y.png)
