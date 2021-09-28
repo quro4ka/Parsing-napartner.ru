@@ -2,4 +2,4 @@
 Parsing using the requests and Beautifulsoup library
 
 You need to collect the following data:
-  <ul>U+2022</ul> 
+  <ul><li>U+2022</li></ul> 
