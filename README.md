@@ -11,9 +11,21 @@ You need to collect the following data:
 <h1></h1>
 <h1>How to use</h1>
 
+1️⃣ Importing libraries
+
 ```python
 import requests
 from bs4 import BeautifulSoup
 import csv
 import os
 ```
+
+`Requests makes a request to the server`
+
+`BeautifulSoup allows you to transform a complex HTML document into a complex tree of various Python objects`
+
+`A CSV file is a text file in which each line has several fields separated by commas, or other separators`
+
+`The os module provides many functions for working with the operating system`
+
+
