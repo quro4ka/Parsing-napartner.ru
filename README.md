@@ -6,3 +6,6 @@ You need to collect the following data:
   <ul><li>Link to the startup</li></ul>
   <ul><li>Information about the startup</li></ul>
   <ul><li>Startup image</li></ul>
+
+
+<h1></h1>
