@@ -1,5 +1,5 @@
 # Parsing-napartner.ru
-Parsing using the <b>requests</b> and Beautifulsoup library
+Parsing using the <b>requests</b> and <b>BeautifulSoup</b> library
 
 You need to collect the following data:
   <ul><li>Startup name</li></ul>
