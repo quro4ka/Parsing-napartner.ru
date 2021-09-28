@@ -10,4 +10,10 @@ You need to collect the following data:
 
 <h1></h1>
 <h1>How to use</h1>
-![](https://i.stack.imgur.com/HTr1Y.png)
+```
+import requests
+from bs4 import BeautifulSoup
+import csv
+import os
+
+```
