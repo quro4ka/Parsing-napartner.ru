@@ -10,5 +10,4 @@ You need to collect the following data:
 
 <h1></h1>
 <h1>How to use</h1>
-![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![alt text](example.com/logo.png)
